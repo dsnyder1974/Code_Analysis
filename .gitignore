@@ -70,4 +70,6 @@ htmlcov/
 Pipfile.lock
 
 # poetry
-poetry.lock
+
+# older notebooks for reference
+old_notebooks/
