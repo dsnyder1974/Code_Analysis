@@ -1,6 +1,9 @@
 # Software Defect Prediction
 
-**David Snyder**
+**Author:** David Snyder  
+**Course:** UC Berkeley Executive Education – Machine Learning and Artificial Intelligence  
+**Project:** Software Defect Prediction  
+**Date:** August 2026
 
 This project explores whether machine learning models can use static code metrics to identify software components that are more likely to contain defects. The goal is not to replace testing or code review, but to investigate whether defect-risk predictions could help engineering teams prioritize where to spend additional review and testing effort.
 
